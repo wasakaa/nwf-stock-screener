@@ -1,8 +1,8 @@
 # 🎯 NWF Stock Screener - Anti-Overfitting Edition
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/yourusername/nwf-stock-screener)
-[![Language](https://img.shields.io/badge/language-Python%20%7C%20JavaScript-green.svg)](https://github.com/yourusername/nwf-stock-screener)
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/wasakaa/nwf-stock-screener)
+[![Language](https://img.shields.io/badge/language-Python%20%7C%20JavaScript-green.svg)](https://github.com/wasakaa/nwf-stock-screener)
 
 > **Advanced stock screening system for Vietnamese market (HOSE, HNX, UPCOM) với thuật toán 5-layer validation chống overfitting**
 
@@ -138,7 +138,7 @@ Robust_Score = NWF_Score × (Confidence / 100)
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/nwf-stock-screener.git
+git clone https://github.com/wasakaa/nwf-stock-screener.git
 cd nwf-stock-screener
 
 # 2. (Optional) Update data với Python
